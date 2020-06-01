@@ -1,0 +1,7 @@
+{
+  "name": "oztax",
+  "version": "1.0.0",
+  "description": "Quickly calculate Australian income tax",
+  "keywords": ["tax","australia","income","net"],
+  "license": "MIT"
+}
